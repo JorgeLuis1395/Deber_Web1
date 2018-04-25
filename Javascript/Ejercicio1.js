@@ -1,4 +1,4 @@
-var arreglo = [5, 3, 's', 'r', 3, 'b', 'u', true, undefined, null, new Date(), {nombre: 'Jorge'}, [12, 12], 'q',];
+var arreglo = [5, 3, 's', 'r', 3, 'b', 'u', true, undefined, null, new Date(), {nombre: 'Jorge'}, [12, 7], 'q',];
 let arregloString = [];
 var arregloDesecho = [];
 
